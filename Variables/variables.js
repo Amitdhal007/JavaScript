@@ -10,7 +10,7 @@ friendName = "Akshay Jha"
 // always use let and const
 
 
-// myName = "Amit Boi"
+// myName = "Amit Boi" 
 myAge = 90
 currLocation = "Mumbai"
 friendName = "Ritik Pandey"
